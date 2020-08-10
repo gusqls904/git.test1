@@ -2,4 +2,5 @@ https://github.com/gusqls904/git.test1.git
 
 
 hello.txt문서입니다
-집중반 모집중
+집중반 모집중 
+넌 필수  
